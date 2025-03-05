@@ -13,9 +13,3 @@ ml_algoritmalari_lazypredict.py → Using LazyPredict for quick ML model benchma
 knn_en_yakin_komşu_algoritması.py → K-Nearest Neighbors (KNN) classification model. (K-En Yakın Komşu algoritması ile sınıflandırma modeli.)
 one_hot_encoding_sklearn.py → Encoding categorical variables using One-Hot Encoding. (Kategorik değişkenlerin One-Hot Encoding ile kodlanması.)
 
-Clone the repository:
-git clone https://github.com/USERNAME/ML-Basics-and-Regression.git
-cd ML-Basics-and-Regression
-
-Install dependencies:
-pip install numpy pandas scikit-learn matplotlib
